@@ -1,0 +1,9 @@
+Created new pattern with idx=0 with class label: 1
+dts[0] class label: 1
+dts[0] dim: 5
+dts[0][0] = 1
+dts[0][1] = 2
+dts[0][2] = 3
+dts[0][3] = 4
+dts[0][4] = 5
+Fold dts[0]: '[ 1 [ 1 2 3 4 5 ] ]'

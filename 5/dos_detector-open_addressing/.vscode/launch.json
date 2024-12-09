@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "test_kdtree",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "/home/david/Escritorio/ED/5/dos_detector-open_addressing/build/test_hash_table",
+            "args": [ "tests_hash_table/01", ],
+            "stopAtEntry": false,
+            "cwd": "${fileWorkspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Habilitar la impresión con sangría para gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Establecer tipo de desensamblado en Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ]
+        },
+    ]
+}

@@ -1,0 +1,7 @@
+Created new pattern with idx=0 with class label: 0
+Created new pattern with idx=1 as alias of pattern idx=0
+Created new pattern with idx=2 as copy of pattern idx=0
+dts[0] *= 2 = '[ 0 [ 2 4 6 8 10 ] ]'
+Pattern idx: 0= [ 0 [ 2 4 6 8 10 ] ]
+Pattern idx: 1= [ 0 [ 2 4 6 8 10 ] ]
+Pattern idx: 2= [ 0 [ 1 2 3 4 5 ] ]

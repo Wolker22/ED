@@ -1,0 +1,12 @@
+Created new pattern with idx=0 with class label: 0
+Created new pattern with idx=1 with class label: 1
+Fold dts[0]: '[ 0 [ -1 2 -3 4 -5 ] ]'
+Fold dts[1]: '[ 1 [ 5 2 3 4 1 ] ]'
+abs(dts[0]) = '[ 0 [ 1 2 3 4 5 ] ]'
+dts[0] + dts[1] = '[ 0 [ 4 4 0 8 -4 ] ]'
+dts[0] - dts[1] = '[ 0 [ -6 0 -6 0 -6 ] ]'
+dts[0] * dts[1] = '[ 0 [ -5 4 -9 16 -5 ] ]'
+dts[0] / dts[1] = '[ 0 [ -0.2 1 -1 1 -5 ] ]'
+2* dts[0] = '[ 0 [ -2 4 -6 8 -10 ] ]'
+dts[0]/2 = '[ 0 [ -0.5 1 -1.5 2 -2.5 ] ]'
+dot(dts[0], dts[1]) = '1'

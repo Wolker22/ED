@@ -1,0 +1,6 @@
+/home/david/Escritorio/ED/1/linear_ds/build/CMakeFiles/test_list.dir
+/home/david/Escritorio/ED/1/linear_ds/build/CMakeFiles/test_stack.dir
+/home/david/Escritorio/ED/1/linear_ds/build/CMakeFiles/test_cdarray.dir
+/home/david/Escritorio/ED/1/linear_ds/build/CMakeFiles/test_queue.dir
+/home/david/Escritorio/ED/1/linear_ds/build/CMakeFiles/edit_cache.dir
+/home/david/Escritorio/ED/1/linear_ds/build/CMakeFiles/rebuild_cache.dir

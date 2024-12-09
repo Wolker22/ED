@@ -1,0 +1,8 @@
+Created new pattern with idx=0 with class label: 0
+Created new pattern with idx=1 with class label: 1
+Fold dts[0]: '[ 0 [ -1 2 -3 4 -5 ] ]'
+Fold dts[1]: '[ 1 [ 5 2 3 4 1 ] ]'
+L1(dts[0], dts[0]) = '0
+L1(dts[0], dts[1]) = '18
+L2(dts[0], dts[0]) = '0
+L2(dts[0], dts[1]) = '10.3923

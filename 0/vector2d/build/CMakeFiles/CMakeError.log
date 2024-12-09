@@ -1,0 +1,113 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/opt/gcc-5.3.0-32/bin/gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/lib/crt1.o: En la función `_start':
+/INSTALACIONES/glibc/glibc-2.29/csu/../sysdeps/i386/start.S:122: referencia a `main' sin definir
+/usr/local/bin/ld: falló el enlace final: Se ha excedido la cuota de disco
+collect2: error: ld devolvió el estado de salida 1
+
+
+The C compiler identification could not be found in "/home/i22pefed/Desktop/ed/vector2d/build/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.o"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/opt/gcc-5.3.0-32/bin/gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<línea-de-orden>:0:1: error: falta '(' antes del predicado
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/opt/gcc-5.3.0-32/bin/gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+/lib/crt1.o: En la función `_start':
+/INSTALACIONES/glibc/glibc-2.29/csu/../sysdeps/i386/start.S:122: referencia a `main' sin definir
+/usr/local/bin/ld: falló el enlace final: Se ha excedido la cuota de disco
+collect2: error: ld devolvió el estado de salida 1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/opt/gcc-5.3.0-32/bin/gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc: aviso: ‘-mcpu=’ es obsoleto; utilice ‘-mtune=’ o ‘-march’ en su lugar
+cc1: aviso: la opción de línea de órdenes ‘-ftarget=arm-arm-none-eabi’ es válida para Java pero no para C
+CMakeCCompilerId.c:1:0: error: valor erróneo (cortex-m3) para -mtune= switch
+
+
+The C compiler identification could not be found in "/home/i22pefed/Desktop/ed/vector2d/build/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.o"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/opt/gcc-5.3.0-32/bin/gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/lib/crt1.o: En la función `_start':
+/INSTALACIONES/glibc/glibc-2.29/csu/../sysdeps/i386/start.S:122: referencia a `main' sin definir
+/usr/local/bin/ld: falló el enlace final: Se ha excedido la cuota de disco
+collect2: error: ld devolvió el estado de salida 1
+
+
+The C compiler identification could not be found in "/home/i22pefed/Desktop/ed/vector2d/build/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.o"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/opt/gcc-5.3.0-32/bin/gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<línea-de-orden>:0:1: error: falta '(' antes del predicado
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/opt/gcc-5.3.0-32/bin/gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+/lib/crt1.o: En la función `_start':
+/INSTALACIONES/glibc/glibc-2.29/csu/../sysdeps/i386/start.S:122: referencia a `main' sin definir
+/usr/local/bin/ld: falló el enlace final: Se ha excedido la cuota de disco
+collect2: error: ld devolvió el estado de salida 1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/opt/gcc-5.3.0-32/bin/gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc: aviso: ‘-mcpu=’ es obsoleto; utilice ‘-mtune=’ o ‘-march’ en su lugar
+cc1: aviso: la opción de línea de órdenes ‘-ftarget=arm-arm-none-eabi’ es válida para Java pero no para C
+CMakeCCompilerId.c:1:0: error: valor erróneo (cortex-m3) para -mtune= switch
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/local/opt/gcc-5.3.0-32/bin/gcc 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+1
+/tmp/ccGtDK9T.s: Mensajes del ensamblador:
+/tmp/ccGtDK9T.s: Error fatal: no se puede cerrar CMakeCCompilerId.o: Se ha excedido la cuota de disco
+
+

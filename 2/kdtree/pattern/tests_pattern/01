@@ -1,0 +1,5 @@
+# Test unfold and observers.
+UNFOLD_PATTERN [ 0 [ 1 -1 2 -3 4 -5 ] ]
+PATTERN_MIN 0
+PATTERN_MAX 0
+PATTERN_SUM 0

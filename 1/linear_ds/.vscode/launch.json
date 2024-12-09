@@ -1,0 +1,23 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "debug test_cdarray",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "/home/david/Descargas/linear_ds/build/test_list",
+            "args": ["/home/david/Descargas/linear_ds/02_tests_simple_list/00"],
+            "stopAtEntry": false,
+            "cwd": "${fileWorkspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            
+            
+        }
+
+    ]
+}
